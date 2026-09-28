@@ -1,5 +1,4 @@
 import React from 'react';
-
 function EmployeeCard({ name, role, department }) {
   return (
     <div style={{
